@@ -147,6 +147,7 @@ The `.exe` supports the same commands as the Python version:
 .\movie-identifier.exe "clip.mp4" --save
 .\movie-identifier.exe "clip.mp4" --json
 .\movie-identifier.exe --help
+```
 
 ## Notes
 
