@@ -17,6 +17,10 @@ Drop in a clip, screenshot, or media URL, and Movie Identifier extracts visual c
 - ASCII-safe terminal output
 - Save identified results as reusable `.bat` and `.json` files
 
+## Download
+
+Get the latest Windows release from the [Releases page](../../releases).
+
 ## Supported Inputs
 
 Videos:
