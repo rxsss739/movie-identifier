@@ -1,0 +1,7 @@
+google-genai
+rich
+typer
+python-dotenv
+Pillow
+colorama
+pyfiglet
