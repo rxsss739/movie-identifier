@@ -1,5 +1,7 @@
 # Movie Identifier
 
+<img width="956" height="361" alt="image" src="https://github.com/user-attachments/assets/50737191-fbf4-4b54-8c6c-9395ca0c9f20" />
+
 AI-powered CLI tool for identifying movies and TV shows from videos, images, or direct clip links using Gemini Vision.
 
 Drop in a clip, screenshot, or media URL, and Movie Identifier extracts visual clues, asks Gemini Vision what it thinks, then gives you a clean result with title, year, confidence, evidence, alternatives, and TV episode guesses when possible.
