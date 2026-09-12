@@ -1,1 +1,7 @@
+__pycache__/
+*.pyc
 .env
+build/
+dist/
+saved-movies/
+.venv/
