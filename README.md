@@ -139,6 +139,15 @@ pyinstaller movie-identifier.spec
 
 When running as an `.exe`, the app looks for `.env`, `ffmpeg.exe`, and `ffprobe.exe` next to the executable.
 
+## CLI Options
+
+The `.exe` supports the same commands as the Python version:
+
+```powershell
+.\movie-identifier.exe "clip.mp4" --save
+.\movie-identifier.exe "clip.mp4" --json
+.\movie-identifier.exe --help
+
 ## Notes
 
 Movie Identifier works best with clear clips, recognizable characters, scenes, titles, or visual style. Short, blurry, cropped, or heavily edited clips may produce lower-confidence guesses.
